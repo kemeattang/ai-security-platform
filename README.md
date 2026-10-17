@@ -1,6 +1,5 @@
 # AI Security Platform — Portable Starter (v0.3)
 
-This is a **reconstructed starter** based on the last verified Day 3 implementation (9 tests), **not a copy of your original laptop's repository**. It does not include unverified Day 4–13 changes.
 
 ## Setup (macOS/Linux)
 ```bash
